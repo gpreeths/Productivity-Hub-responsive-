@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import React from 'react'
 // import Notepad from './notepad/page'
-import Homenavbar from '@/components/Navbars'
+import Homenavbar from '@/Components/Navbars'
 import FeatureCard from '@/Components/FeatureCard'
 
 
